@@ -15,7 +15,10 @@ h2 {
     font-style: initial;
     margin-top: 100px;
 }
-
+p{
+    font-size: 40px;
+    font-style: italic;
+}
 a {
     text-decoration:underline; /* Remove underline */
     color: #471b05; /* Link color */
@@ -25,7 +28,9 @@ a {
 a:hover {
     color: #0056b3; /* Darker blue when hovered */
 }
-
+.link3{
+    text-decoration:dotted;
+}
 .link1, .link2 {
     margin: auto;
 }
